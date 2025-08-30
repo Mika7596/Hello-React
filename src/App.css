@@ -1,0 +1,8 @@
+.app{
+  padding: 20px;
+}
+.lower-part{
+  padding: 50px;
+  display: flex;
+  justify-content: space-between;
+}

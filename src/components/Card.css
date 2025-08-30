@@ -1,0 +1,13 @@
+.card-container{
+    width: 200px;
+    font-family: cursive;
+}
+h4{
+   font-size: 1.2em;
+}
+.img-container{
+    width: 100px;
+}
+.img-container img{
+    max-width: 100%;
+}
